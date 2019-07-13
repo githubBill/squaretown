@@ -1,7 +1,7 @@
 # squaretown
 minimum total travel distance (from N people)  | Algorithms | C++ | manhattan grid 
 
-* v2 C++ file reads input from file instead of command line arguments (user array of non constant size work with g++ extension compiler)
+* v2 C++ file reads input from file instead of command line arguments (uses array of non constant size work with g++ extension compiler)
 * original version uses dyanamic memory allocation (compatible with all c++ compilers)
 
 *Data Input:  reads from standard input  a positive integer N (indicates how many students live in squaretown)
